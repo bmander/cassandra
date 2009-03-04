@@ -1,0 +1,1 @@
+Cassandra is a scheduled transit vehicle arrival prediction system. Cassandra ingests a standard AVL feed and provides and API for requesting vehicle arrival predictions. 
